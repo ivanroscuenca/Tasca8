@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="279ff5a9-4afa-4f86-a727-5bc31241c3b6" name="Changes" comment="Nivell 2 ex1">
-      <change afterPath="$PROJECT_DIR$/src/N2ex2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/N2ex2/ReturnOddOrEven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/N2ex3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/N2ex3/Operations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/N2ex4/Main.java" afterDir="false" />
+    <list default="true" id="279ff5a9-4afa-4f86-a727-5bc31241c3b6" name="Changes" comment="Nivell 2 ex2 done">
+      <change afterPath="$PROJECT_DIR$/src/N3ex1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N3ex1/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,12 +76,20 @@
       <option name="project" value="LOCAL" />
       <updated>1678352790917</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Nivell 2 ex2 done">
+      <created>1678376555221</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678376555222</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Nivell 1 ended" />
     <MESSAGE value="Nivell 2 ex1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Nivell 2 ex1" />
+    <MESSAGE value="Nivell 2 ex2 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nivell 2 ex2 done" />
   </component>
 </project>
