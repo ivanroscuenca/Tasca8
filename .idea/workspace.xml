@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="279ff5a9-4afa-4f86-a727-5bc31241c3b6" name="Changes" comment="Nivell 1 ended">
-      <change afterPath="$PROJECT_DIR$/src/N2ex1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/N2ex1/ReturnString.java" afterDir="false" />
+    <list default="true" id="279ff5a9-4afa-4f86-a727-5bc31241c3b6" name="Changes" comment="Nivell 2 ex1">
+      <change afterPath="$PROJECT_DIR$/src/N2ex2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N2ex2/ReturnOddOrEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N2ex3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N2ex3/Operations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N2ex4/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,11 +42,13 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/ivan/Escritorio/Tasca8/src/N1ex2&quot;
+    &quot;last_opened_file_path&quot;: &quot;/home/ivan/Escritorio/Tasca8/src/N2ex2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/N2ex2" />
       <recent name="$PROJECT_DIR$/src/N1ex2" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -67,11 +72,19 @@
       <option name="project" value="LOCAL" />
       <updated>1678318564777</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Nivell 2 ex1">
+      <created>1678352790917</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678352790917</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Nivell 1 ended" />
-    <option name="LAST_COMMIT_MESSAGE" value="Nivell 1 ended" />
+    <MESSAGE value="Nivell 2 ex1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nivell 2 ex1" />
   </component>
 </project>
