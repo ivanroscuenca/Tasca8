@@ -4,28 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="279ff5a9-4afa-4f86-a727-5bc31241c3b6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasca8.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/N1ex1/Cities.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/N1ex1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/N1ex1/ReturnString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/N1ex2/Cities.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/N1ex2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/N1ex2/ReturnString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/N1ex3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/N1ex4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/N1ex5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/N1ex5/Pi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/N1ex6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/N1ex7/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/N1ex8/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/N1ex8/Reverse.java" afterDir="false" />
+    <list default="true" id="279ff5a9-4afa-4f86-a727-5bc31241c3b6" name="Changes" comment="Nivell 1 ended">
+      <change afterPath="$PROJECT_DIR$/src/N2ex1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N2ex1/ReturnString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +60,18 @@
       <option name="presentableId" value="Default" />
       <updated>1678270043603</updated>
     </task>
+    <task id="LOCAL-00001" summary="Nivell 1 ended">
+      <created>1678318564777</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678318564777</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Nivell 1 ended" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nivell 1 ended" />
   </component>
 </project>
